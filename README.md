@@ -1,4 +1,5 @@
-# Java
+# Java 교재
+<img src="http://image.yes24.com/momo/TopCate1232/MidCate001/123105190.jpg" width="300px" height="450px">
 
 ## Java의 정석 목차
 * ch1. 자바를 시작하기전에
