@@ -19,4 +19,4 @@
 * ch16. 네트워킹(Networking)
 
 ### Repository 하위 폴더 구성
-* 각 chapter별로 소스 java 파일 정리
+* 각 chapter별로 java 소스 파일 정리
